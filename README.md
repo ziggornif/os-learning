@@ -9,3 +9,8 @@ brew install llvm lld qemu
 export PATH="$PATH:$(brew --prefix)/opt/llvm/bin"
 ```
 
+## Run
+
+```sh
+./run.sh
+```
